@@ -4,21 +4,65 @@
 body{
     margin: 0;
 }
-header{
-    font-size: 32px;
+header {
+    inset: 0;
+    margin-inline: auto;
+    margin-block: 20px;
+    width: 850px;
+    background: linear-gradient(135deg, #ff0800,#ff3b3b, #ffffff);
+    padding: 20px 40px;
     text-align: center;
-    margin: 32px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    color: white;
 }
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-family: 'Segoe UI', sans-serif;
+    letter-spacing: 1px;
+}
+.select-date {
+    inset: 0;
+    margin-block: 20px;
+    gap: 8px;
+    font-family: 'Segoe UI', sans-serif;
+    max-width: 250px;
+}
+
+.select-date label {
+    font-weight: 600;
+    color: #333;
+}
+
+.select-date input[type="date"] {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.select-date input[type="date"]:focus {
+    border-color: #ff3b3b;
+    box-shadow: 0 0 5px #ff0000;
+}
+
 main{
     width: 850px;
-    height: 100vh;
     inset: 0;
     margin: auto;
     padding: 25px;
 }
 .container{
     width: 800px;
+}
+section{
+    margin: 10px;
     background-color: rgb(255, 252, 248);
+    margin-bottom: 25px;
 }
 h2{
     padding: 15px;
@@ -26,13 +70,37 @@ h2{
     box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
     border-radius: 12px;
 }
-p{
+p, ol{
     margin: 15px;
     padding: 10px;
+    background-color: rgb(255, 240, 230);
     border-left: 5px solid red;
     border-radius: 5px;
     box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
 }
-ol li::marker{
+ol{
+    padding-left: 40px;
+}
+.sod ol li::marker{
     content: '🎨  ';
+}
+.eod ol li::marker{
+    content: '✅  ';
+}
+a{
+    color: grey;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    text-align: center;
+}
+footer div{
+    display: flex;
+    align-items: center;
+}
+footer img{
+    margin-inline: 10px;
+    width: 20px;
 }
