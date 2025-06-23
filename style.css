@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+header h1{
+    font-size: 48px;
+    text-align: center;
+}
