@@ -3,12 +3,13 @@
 }
 body{
     margin: 0;
+    font-family: 'Segoe UI', sans-serif;
 }
 header {
     inset: 0;
     margin-inline: auto;
     margin-block: 20px;
-    width: 850px;
+    max-width: 850px;
     background: linear-gradient(135deg, #ff0800,#ff3b3b, #ffffff);
     padding: 20px 40px;
     text-align: center;
@@ -16,22 +17,22 @@ header {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     color: white;
 }
-
 header h1 {
     margin: 0;
-    font-size: 2.5rem;
+    font-size: 48px;
     font-family: 'Segoe UI', sans-serif;
     letter-spacing: 1px;
 }
 .select-date {
-    inset: 0;
+    width: 100%;
     margin-block: 20px;
-    gap: 8px;
-    font-family: 'Segoe UI', sans-serif;
-    max-width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 .select-date label {
+    margin-right: 10px;
     font-weight: 600;
     color: #333;
 }
@@ -49,15 +50,14 @@ header h1 {
     border-color: #ff3b3b;
     box-shadow: 0 0 5px #ff0000;
 }
-
 main{
-    width: 850px;
     inset: 0;
     margin: auto;
+    max-width: 850px;
     padding: 25px;
 }
 .container{
-    width: 800px;
+    max-width: 850px;
 }
 section{
     margin: 10px;
@@ -118,4 +118,49 @@ footer div{
 footer img{
     margin-inline: 10px;
     width: 20px;
+}
+@media (width<950px) and (width>768px){
+    header h1{
+        font-size: 42px;
+    }
+    header, main{
+        margin-inline: 50px;
+    }
+    .learned a {
+        margin-block: 8px;
+        margin-inline: 15px 0;
+    }
+    .learned a:hover {
+        transform: scale(1.065);
+    }
+}
+@media (width<= 768px){
+    header h1{
+        font-size: 28px;
+    }
+    h2{
+        font-size: 14px;
+    }
+    p,a,li{
+        font-size: 12px;
+    }
+    header{
+        margin-inline: 25px;
+    }
+    main{
+        margin-inline: 10px;
+    }
+    .learned a {
+        margin-block: 4px;
+        margin-inline: 15px 0;
+    }
+    .learned a:hover {
+        transform: scale(1.05);
+    }
+    .select-date input[type="date"]{
+        font-size: 12px;
+    }
+    .select-date label{
+        font-size: 14px;
+    }
 }

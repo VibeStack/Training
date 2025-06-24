@@ -32,7 +32,7 @@
             "p":{
                 "0":"The the begining i was totally confused how to start as i am unable to find that how to de everything perfect but now thanks to my mentor Sangam Arora who shared me their training blogs which i only see and try to make something more beautiful",
                 "1":"The boaring task to read documentation but i have to no other choice but side by side i want taking help from youtube in 2 ways 1st the commands to revise faster by viewing the videos and other by seeing cartoons as this relax my mind really 😅."
-            }  
+            }
         },
         "learned":{
             "h2":{
@@ -73,6 +73,76 @@
         }
     },
     {
-        "id":"2025-06-24"
+        "id":"2025-06-24",
+        "begining":{
+            "h2":{
+                "0":"Day 2: The Journey Continues... 🚀"
+            },
+            "p":{
+                "0":"Today I started eary in morning around 7 then i continue with my blog website making it more easy to input and goodlooking and add new functionalities to it.",
+                "1":"Around 10 my mentor give me a project to build a Conference ticket generator website fully responsive from frontend mentor and i was so deep into my blog website that till now around 12 i didn't start and even not seen properly 😜 but thanks to my mentors friendly nature he attended my doubts related to blog webite so politely.",
+                "2":"I think no i knew that i got the best mentor 😇."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Practice more Git & GitHub Commands 💻",
+                "1":"Conference Ticket Generator Project given my my mentor",
+                "2":"Make Blog and modify the webpage where i can post my daily Blogs 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Today the main challange was either to use form tag to transfer data from one logi page to another for generating ticket or should i use some other method for this will continue this tomorrow or after the training time gets completed afterwards i still work until i get satisfaction. 😂😉",
+                "1":"Thanking myself as today i didn't read any documentation 🤣🤣🤣 i use chatGPT to get knowledge about form tag, z-index affecting form inputs and more."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Practiced Git Commands more & GitHub (Version Control Software)"
+            },
+            "p":{
+                "0":"Learning git commands & Starting a new Project :- "
+            },
+            "a":{
+                "Official Documentation (Git & GitHub)":"https://git-scm.com/docs",
+                "Conference ticket generator (Frontend Mentor)":"https://www.frontendmentor.io/challenges/conference-ticket-generator-oq5gFIU12w"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"I spend appreximately hours today as my 1st day of training by using the software clockify i keep the track of my work, thankful to my mentor for suggesting me this software 🔥."            
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Practiced Git & GitHub with git commands 💻",
+                "1":"The project for Conference ticket generator frontend for form page done 💻",
+                "2":"Blog and a basic webpage where i can post my daily Blogs build successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"The 2nd day of my training as very good didn't ask any query from my mentor try to solve at my own and the positive part is it doesn't take lot of time to correct it and feel good like Punjabi say Maza aaiya 🥳 ,I enjoyed working and learning + revising the the concepts."
+            }
+        }
     }
 ]

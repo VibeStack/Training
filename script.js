@@ -1,8 +1,14 @@
 const inputDate = document.querySelector('#date')
-const container = document.querySelector('.container')
+const containerFrame = document.querySelector('.containerFrame')
+let container = document.querySelector('.container')
 const begining = document.querySelector('.begining')
 
-let requiredDayData;
+const todaysDate = new Date()
+const day = String(todaysDate.getDate()).padStart(2, '0');
+const month = String(todaysDate.getMonth() + 1).padStart(2, '0');
+const year = todaysDate.getFullYear();
+
+const formattedDate = `${year}-${month}-${day}`;
 
 function createTags(element,attributes,innerElement,parent){
     const elementTag = document.createElement(`${element}`);
@@ -14,6 +20,9 @@ function createTags(element,attributes,innerElement,parent){
     return elementTag;
 }
 
+let requiredDayData;
+inputDate.value = formattedDate;
+
 async function getData(url,selectedDate) {
     try{
         const response = await fetch(url);
@@ -24,7 +33,7 @@ async function getData(url,selectedDate) {
         requiredDayData = singleRequiredValues[0];
         for(let key in requiredDayData){
             if(key === 'id'){
-                console.log(key);
+                continue;
             }
             else{
                 const sectionTags = createTags('section',{class:`${key}`},"",container);
@@ -35,12 +44,11 @@ async function getData(url,selectedDate) {
                             const noOfLiInOlTags = Object.values(requiredDayData[key][element]).length;
                             const olElement = createTags(`${element}`,{},"",sectionTags)
                             for(let i=0;i<noOfLiInOlTags;i++){
-                                console.log(createTags('li',{},`${requiredDayData[key][element][i]}`,olElement));;
+                                createTags('li',{},`${requiredDayData[key][element][i]}`,olElement);
                             }
                             break;
                         }
                         if(element === 'a'){
-                            console.log(requiredDayData[key][element]);
                             for(const aTagKeys in requiredDayData[key][element]){
                                 createTags(`${element}`,{href:`${requiredDayData[key][element][aTagKeys]}`},`${aTagKeys}`,sectionTags)
                             }
@@ -56,6 +64,10 @@ async function getData(url,selectedDate) {
         console.error('Fetch error:', error);
     }
 }
+getData('./data.json',inputDate.value)
+
 inputDate.addEventListener('change',(e)=>{
-    getData('./data.json',inputDate.value)
+    container.remove();
+    container = createTags('div',{class:"container"},"",containerFrame);
+    getData('./data.json',e.target.value)
 })
