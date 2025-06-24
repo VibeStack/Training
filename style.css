@@ -78,6 +78,21 @@ p, ol{
     border-radius: 5px;
     box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
 }
+.learned a {
+    display: inline-block;
+    color: rgb(97, 97, 97);
+    margin: 15px;
+    padding: 10px;
+    background-color: rgb(255, 240, 230);
+    border-left: 5px solid rgb(160, 160, 160);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    transition: transform 0.2s ease-in-out;
+}
+.learned a:hover {
+    transform: scale(1.2);
+}
+
 ol{
     padding-left: 40px;
 }
