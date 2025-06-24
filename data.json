@@ -2,51 +2,77 @@
     {
         "id":"2025-06-23",
         "begining":{
-            "title":"Day 1: The Journey Begins 🚀",
-            "p1":"Today i have started an exciting journey the learning whic i am going to start today is according to real world but actually if i think the nomes and the standards i was getting knowledge of these from the past as doing coding was the actual thing which i love to do.",
-            "p2":"But now this is not only training for me this me something more a regular practice. The start which is now my responsibility to continue not only the comming 4 weeks but for my whole development journey.",
-            "p3":"I am very very thankful to my mentor Sangam Arora to be my guide for this training journey and i will be doing each an every task with full dedication and sincerity.",
-            "p4":"Let's Begin! 😊"
+            "h2":{
+                "0":"Day 1: The Journey Begins 🚀"
+            },
+            "p":{
+                "0":"Today i have started an exciting journey the learning whic i am going to start today is according to real world but actually if i think the nomes and the standards i was getting knowledge of these from the past as doing coding was the actual thing which i love to do.",
+                "1":"But now this is not only training for me this me something more a regular practice. The start which is now my responsibility to continue not only the comming 4 weeks but for my whole development journey.",
+                "2":"I am very very thankful to my mentor Sangam Arora to be my guide for this training journey and i will be doing each an every task with full dedication and sincerity.",
+                "3":"Let's Begin! 😊"
+            }
         },
         "sod":{
-            "title":"SOD's (Start of the Day)",
-            "p1":"Today's Task List :-",
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
             "ol":{
-                "li1":"Revise Git & GitHub 💻",
-                "li2":"Practice Commands 💻",
-                "li3":"Make Blog and a webpage where i can post my daily Blogs 💻"
+                "0":"Revise Git & GitHub 💻",
+                "1":"Practice Commands 💻",
+                "2":"Make Blog and a webpage where i can post my daily Blogs 💻"
             }
         },
         "challange":{
-            "title":"challange",
-            "p1":"The the begining i was totally confused how to start as i am unable to find that how to de everything perfect but now thanks to my mentor Sangam Arora who shared me their training blogs which i only see and try to make something more beautiful",
-            "p2":"The boaring task to read documentation but i have to no other choice but side by side i want taking help from youtube in 2 ways 1st the commands to revise faster by viewing the videos and other by seeing cartoons as this relax my mind really 😅."
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"The the begining i was totally confused how to start as i am unable to find that how to de everything perfect but now thanks to my mentor Sangam Arora who shared me their training blogs which i only see and try to make something more beautiful",
+                "1":"The boaring task to read documentation but i have to no other choice but side by side i want taking help from youtube in 2 ways 1st the commands to revise faster by viewing the videos and other by seeing cartoons as this relax my mind really 😅."
+            }  
         },
         "learned":{
-            "title":"Learn Git Commands & GitHub (Version Control Software)",
-            "p1":{
-                "text":"Learning git commands :- "
+            "h2":{
+                "0":"Learn Git Commands & GitHub (Version Control Software)"
             },
-            "links":{
-                "l1":"https://git-scm.com/docs",
-                "l2":"https://www.youtube.com/live/DyqAdz96mok?si=AR9rJezGkBGlcWwf"
+            "p":{
+                "0":"Learning git commands :- "
+            },
+            "a":{
+                "Official Documentation":"https://git-scm.com/docs",
+                "YouTube Video":"https://www.youtube.com/live/DyqAdz96mok?si=AR9rJezGkBGlcWwf"
             }
         },
         "time":{
-            "title":"Time Spent",
-            "p1":"I spend appreximately hours today as my 1st day of training by using the software clockify i keep the track of my work, thankful to my mentor for suggesting me this software 🔥."
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"I spend appreximately hours today as my 1st day of training by using the software clockify i keep the track of my work, thankful to my mentor for suggesting me this software 🔥."            }
         },
-        "edo":{
-            "title":"EOD's (End of the Day)",
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
             "ol":{
-                "li1":"Revised Git & GitHub 💻",
-                "li2":"Practiced Commands 💻",
-                "li3":"Blog and a basic webpage where i can post my daily Blogs build successfully 💻"
+                "0":"Revised Git & GitHub 💻",
+                "1":"Practiced Commands 💻",
+                "2":"Blog and a basic webpage where i can post my daily Blogs build successfully 💻"
             }
         },
         "experience":{
-            "title":"My Today's Experience",
-            "p1":"The 1st day of my training as very good i enjoyed working and learning + revising the the concepts."
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"The 1st day of my training as very good i enjoyed working and learning + revising the the concepts."
+            }
         }
+    },
+    {
+        "id":"2025-06-24"
     }
 ]
