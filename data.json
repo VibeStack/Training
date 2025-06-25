@@ -144,5 +144,74 @@
                 "0":"The 2nd day of my training as very good didn't ask any query from my mentor try to solve at my own and the positive part is it doesn't take lot of time to correct it and feel good like Punjabi say Maza aaiya 🥳 ,I enjoyed working and learning + revising the the concepts."
             }
         }
+    },
+    {
+        "id":"2025-06-25",
+        "begining":{
+            "h2":{
+                "0":"Day 3: Excitement Still on the Peak... 🤩"
+            },
+            "p":{
+                "0":"Today with a freshing start i open my laptop with the aim to completed the project of Conferene ticket generator, a project given by my mentor are the readers excited 😉 whether i completed it or not, let's dive into the journey quickly. 😁"
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Complete the Project Conference Ticket Generator 💻",
+                "1":"Make Blog of the daya and update my training tracker website 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"The challage was to make a drag and drop functionality in the project for uploading the user image. Ha Ha Ha Ha 🤣🤣🤣 There wasn't any challange as i remember thanking to my curiosity i have make a project for video and audio translation to from one language to another and there i encounter this functionaly 1st time and if i remember i think i make it in my mid of 3rd sem 😎",
+                "1":"Again thankful to myself and more to my mentor for what read my today's expreience ok 😌. Today i didn't read any documentation 🤣🤣🤣 i use chatGPT to get knowledge of various css pseudo selectors `:maker` for inputs and more revising js concepts."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Project Currently In Progress"
+            },
+            "p":{
+                "0":"Refering to Project :- "
+            },
+            "a":{
+                "Conference ticket generator (Frontend Mentor)":"https://www.frontendmentor.io/challenges/conference-ticket-generator-oq5gFIU12w"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully completing my today's 9 hours of training. The 3rd day of training was more easy but time consuming and handling all safety checks for the project 🔥😎🔥"            
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"99% Completed with the Conference ticket generator 💻",
+                "1":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"With a good start of 3rd day of training i literally enjoyed and very very thankful to my mentor to clearify my doubts on call with last for atleast 15-30 minutes making my all doubts crystal clear like either to use form tag or using div instead , tranfering data from one html page to another with help of js more methods can be there like localstorage, various methods of fetch 🙃",
+                "1":"Happy with my efficiency of 9 hours of the day a little more than 9 actually, Signing Off See you soon guys 😇."
+            }
+        }
     }
 ]
