@@ -164,7 +164,7 @@
             },
             "ol":{
                 "0":"Complete the Project Conference Ticket Generator 💻",
-                "1":"Make Blog of the daya and update my training tracker website 💻"
+                "1":"Make Blog of the day and update my training tracker website 💻"
             }
         },
         "challange":{
@@ -211,6 +211,75 @@
             "p":{
                 "0":"With a good start of 3rd day of training i literally enjoyed and very very thankful to my mentor to clearify my doubts on call with last for atleast 15-30 minutes making my all doubts crystal clear like either to use form tag or using div instead , tranfering data from one html page to another with help of js more methods can be there like localstorage, various methods of fetch 🙃",
                 "1":"Happy with my efficiency of 9 hours of the day a little more than 9 actually, Signing Off See you soon guys 😇."
+            }
+        }
+    },
+    {
+        "id":"2025-06-26",
+        "begining":{
+            "h2":{
+                "0":"Day 4: Excitement a little low 😫"
+            },
+            "p":{
+                "0":"Although have a good start today i completed my previous project fully but when i get today's sod it kind of make my excitement a little low but i still with a positive mind i continue."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Analyse interviw questions on HTML,CSS,JS,React and TypeScript.",
+                "1":"Make Blog of the day and update my training tracker website 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Today the biggest challange is to stay positive and complete today's task 😑."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned :- "
+            },
+            "p":{
+                "0":"Interview Questions Resource :- "
+            },
+            "a":{
+                "Interview Questions":"https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully but with a great difficulty in completing my 8 hours of training time."            
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"As per my knowledge only able to go through the interview questions of HTML,CSS and JS not of React & TypeScript 💻",
+                "1":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Ohhh my innocent readers with great happiness i am telling it was not that bad 😉 although i get less task for today but after reading my 2-3 day blogs i expect a little understanding that i have unlimited excitement so what i get less task can't i enjoy my own can't i myself give the challenge 😆.",
+                "1":"I learner some concepts of react the older react and a little newer one with concepts like why react (not a concept actually 😝), babel, source map, jsx and some doubts solved my chatGPT.",
+                "2":"Thanking my mentor for making day 4 a little lighter so i can explore more stuff's. 😇"
             }
         }
     }
