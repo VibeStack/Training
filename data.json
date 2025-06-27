@@ -246,7 +246,7 @@
         },
         "learned":{
             "h2":{
-                "0":"Task Assigned :- "
+                "0":"Task Assigned"
             },
             "p":{
                 "0":"Interview Questions Resource :- "
@@ -280,6 +280,77 @@
                 "0":"Ohhh my innocent readers with great happiness i am telling it was not that bad 😉 although i get less task for today but after reading my 2-3 day blogs i expect a little understanding that i have unlimited excitement so what i get less task can't i enjoy my own can't i myself give the challenge 😆.",
                 "1":"I learner some concepts of react the older react and a little newer one with concepts like why react (not a concept actually 😝), babel, source map, jsx and some doubts solved my chatGPT.",
                 "2":"Thanking my mentor for making day 4 a little lighter so i can explore more stuff's. 😇"
+            }
+        }
+    },
+    {
+        "id":"2025-06-27",
+        "begining":{
+            "h2":{
+                "0":"Day 5: The fire's still burning 🔥 — learning 📚, growing 🌱"
+            },
+            "p":{
+                "0":"Start of the day was a little lazy but i managed to focus and with full excitement ready to work on something new either ny myself or task by my mentor."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Analyse interviw questions on React & TypeScript + Previous interview questions 💻",
+                "1":"Make Blog of the day and update my training tracker website 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"The challange was to continue's reading of interview questions.",
+                "1":"Also making mind fully concentrated eventho i know almost maximum of concepts asked in interview questions."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning & Practicing Resource :- "
+            },
+            "a":{
+                "Interview Questions":"https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions",
+                "React Learing Resource":"https://www.youtube.com/watch?v=dCLhUialKPQ"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully but with my today's 8 hours of traning with feeling happy as ia have used my time as very effective similar to my past days. 🙌 🥳"
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Some Interview Questions of React completed and understand the concept behind them.💻",
+                "1":"Learned some react concepts like props, components, Bundlers, JSX and more.💻",
+                "2":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Happy Happy feeling 😊 as used my hours productive and the call with mentor solved doubts related to past history of react, react core was discussed by me with mentor so i can brush up my learned concepts. 😁",
+                "1":"Thanking my mentor for making Day 5 exciting with the call where i can open myself with my mentor and clearify my various doubts full of curiosity 😇"
             }
         }
     }
