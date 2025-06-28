@@ -331,7 +331,7 @@
                 "0":"Time Spent"
             },
             "p":{
-                "0":"Successfully but with my today's 8 hours of traning with feeling happy as ia have used my time as very effective similar to my past days. 🙌 🥳"
+                "0":"Successfully completed with my today's 8 hours of traning with feeling happy as ia have used my time as very effective similar to my past days. 🙌 🥳"
             }
         },
         "eod":{
@@ -340,7 +340,7 @@
             },
             "ol":{
                 "0":"Some Interview Questions of React completed and understand the concept behind them.💻",
-                "1":"Learned some react concepts like props, components, Bundlers, JSX and more.💻",
+                "1":"Learned some react concepts like Bundlers, JSX and more.💻",
                 "2":"Todays's blog completed successfully 💻"
             }
         },
@@ -351,6 +351,77 @@
             "p":{
                 "0":"Happy Happy feeling 😊 as used my hours productive and the call with mentor solved doubts related to past history of react, react core was discussed by me with mentor so i can brush up my learned concepts. 😁",
                 "1":"Thanking my mentor for making Day 5 exciting with the call where i can open myself with my mentor and clearify my various doubts full of curiosity 😇"
+            }
+        }
+    }
+    ,{
+        "id":"2025-06-28",
+        "begining":{
+            "h2":{
+                "0":"Day 6: The Momentum is Real ⚡️"
+            },
+            "p":{
+                "0":"A nice start about to complete 4 and a half hour before 12, time goes in exploring,solving errors, learning new stuff and excitement help me to work more and more, yo yo yo 😌."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Analyse interviw questions on React & TypeScript + View the shared video of react 💻",
+                "1":"Make Blog of the day and update my training tracker website 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Challange was to stay focused due to scheduled prior works leading to completion of my training time."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning & Practicing Resource :- "
+            },
+            "a":{
+                "Interview Questions":"https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions",
+                "React Learing Resource":"https://www.youtube.com/watch?v=dCLhUialKPQ"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully completed with my today's 8 hours of traning with full joy and frustraing at same time because of learning and unable to solse the errors. 😫❤️🥳"
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Few More Interview Questions of React completed and understand the concept behind them.💻",
+                "1":"Learned some react concepts like props, components and more.💻",
+                "2":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"More frustrating than happy because of unable to solve the error and still roaming in my mind discussed with mentor and my cousin (Senior Developer) but talk only helps in strengthening concepts of js more 😅😂.",
+                "1":"Masti :- Ham ladka ha janab dard hota ha jab error jata nahi ha, lagtha ha isi ka karan koi ladki pass nahi aati 🤣😭🤣.",
+                "2":"Top Secret Batt :- Hama koi chaiya bhi nahi khush ha aapna sath mast ha 😎. Sayonara ✌️ Peace."
             }
         }
     }
