@@ -353,8 +353,8 @@
                 "1":"Thanking my mentor for making Day 5 exciting with the call where i can open myself with my mentor and clearify my various doubts full of curiosity 😇"
             }
         }
-    }
-    ,{
+    },
+    {
         "id":"2025-06-28",
         "begining":{
             "h2":{
@@ -422,6 +422,78 @@
                 "0":"More frustrating than happy because of unable to solve the error and still roaming in my mind discussed with mentor and my cousin (Senior Developer) but talk only helps in strengthening concepts of js more 😅😂.",
                 "1":"Masti :- Ham ladka ha janab dard hota ha jab error jata nahi ha, lagtha ha isi ka karan koi ladki pass nahi aati 🤣😭🤣.",
                 "2":"Top Secret Batt :- Hama koi chaiya bhi nahi khush ha aapna sath mast ha 😎. Sayonara ✌️ Peace."
+            }
+        }
+    },
+    {
+        "id":"2025-06-29",
+        "begining":{
+            "h2":{
+                "0":"Week 1 Sunday : Chuti 🥳 Na Na Na 😭"
+            },
+            "p":{
+                "0":"Relaxing Start with a little late i awake, Va a cool rhyeme, isn't i am a poet naaaa I am a Developer 😎 who enjoys and loves his work ❤️."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make Blog of the day and update my training tracker website. 💻",
+                "1":"Revising Practicing Revising Practicing and the cycle continues. 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Nops no challange for today only relax and no relax 😂🤣 means do what a developer mind says and what's that can you guess my lovely readers. Yes, Solving error and getting more and more frustrating and staying calm at the same time 😆."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning & Practicing Resource :- "
+            },
+            "a":{
+                "Interview Questions":"https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions",
+                "React Learing Resource":"https://www.youtube.com/watch?v=dCLhUialKPQ"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"No fixed time as i forgot to start my timer every time but i say approximated about 4-5 hours i worked 😊."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Few More Interview Questions of React completed and understand the concept behind them.💻",
+                "1":"Made a small project to understand react components file structure how image is imported and more💻",
+                "2":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"One more day getting added to a developer life full of excitement to explore, learn more and solve errors overall a good one.",
+                "1":"Yes Yes i know you would say it's sunday bro why this today but i would ask why not if i have successfully joined a training then why should i leave even sunday although spending less time then usual is far far better than spending `Time : JSON.parse(atob('bnVsbA=='))` lets check who can understand this 😉.",
+                "2":"Ohh nahi samaj aaiya koi na, oe kyu koi na jaka js revise kar samjha 🤣🤣.",
+                "3":"No gussa guys if didn't get promise i will explain it tomorrow ok guys `au revoir 😜`"
             }
         }
     }
