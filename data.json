@@ -492,8 +492,81 @@
             "p":{
                 "0":"One more day getting added to a developer life full of excitement to explore, learn more and solve errors overall a good one.",
                 "1":"Yes Yes i know you would say it's sunday bro why this today but i would ask why not if i have successfully joined a training then why should i leave even sunday although spending less time then usual is far far better than spending `Time : JSON.parse(atob('bnVsbA=='))` lets check who can understand this 😉.",
-                "2":"Ohh nahi samaj aaiya koi na, oe kyu koi na jaka js revise kar samjha 🤣🤣.",
+                "2":"Ohh nahi samaj aaiya koi na, oe kyu koi na jaka JS revise kar samjha 🤣🤣.",
                 "3":"No gussa guys if didn't get promise i will explain it tomorrow ok guys `au revoir 😜`"
+            }
+        }
+    },
+    {
+        "id":"2025-06-30",
+        "begining":{
+            "h2":{
+                "0":"Day 7: Fresh Week, Full Power — Let's Crush it! 🤠"
+            },
+            "p":{
+                "0":"Continuing the journey with a little rest, freshing and energetic start 😌. Continuous efforts always pays back 😇. Let's start with today's blog Yuppy 😄."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make Blog of the day and update my training tracker website. 💻",
+                "1":"Revising Practicing Revising Practicing and continuing cycle. + Watching Shared Video 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Quickly knowing new tech and not just knowing getting familiar knowing more and more linux commands required for new tech 😋. {This thing is fun, yummy i am loving it 🥰}"
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning & Practicing Resource :- "
+            },
+            "a":{
+                "Interview Questions":"https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions",
+                "React Learing Resource":"https://www.youtube.com/watch?v=dCLhUialKPQ"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully completed with my today's 8 hours of traning with feeling happy with effective utilization of training time similar to my past days. 🙌 🥳"
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Few More Interview Questions of React completed and understand the concept behind them.💻",
+                "1":"Converting my already build countries website in react with helps in learning and hands on practice 💻",
+                "2":"Learned Concepts of React like:- Event Handling in react, State, Fragments, Child Props, Conditional Rendering, CSS in react (how to import files), Hooks and a little more 💻",
+                "3":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Freshing start fill me with a new energy and i contines with the same or a little faster speed. 🤩",
+                "1":"A nice Experience as expected by the readers from me. One thing i wanna say `Rukaga nahi .... 🤣🤣 baki samaj jao ok ji` ok then Good Night Guys 🥱😴",
+                "2":"Sorry Sorry Guys, What do you think i forgot yesterday's question solution na na na here it is :- `Time : JSON.parse(atob('bnVsbA=='))`, Answer is Time : Null as 'bnVsbA==' is base64 for the string: `null` and `atob` is a JS function which decodes a base64 encoded string into a plain string. Now Happy then Smile, a little bigger 😁😁",
+                "3":"`Au revoir 😜`:- Good Bye in French 🤣🤣🤣."
             }
         }
     }
