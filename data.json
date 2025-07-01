@@ -68,7 +68,7 @@
                 "0":"My Today's Experience"
             },
             "p":{
-                "0":"The 1st day of my training as very good i enjoyed working and learning + revising the the concepts."
+                "0":"The 1st day of my training as very good i enjoyed working and learning + revising the concepts."
             }
         }
     },
@@ -401,7 +401,7 @@
                 "0":"Time Spent"
             },
             "p":{
-                "0":"Successfully completed with my today's 8 hours of traning with full joy and frustraing at same time because of learning and unable to solse the errors. 😫❤️🥳"
+                "0":"Successfully completed with my today's 8 hours of traning with full joy and frustraing at same time because of learning and unable to solve the errors. 😫❤️🥳"
             }
         },
         "eod":{
@@ -567,6 +567,79 @@
                 "1":"A nice Experience as expected by the readers from me. One thing i wanna say `Rukaga nahi .... 🤣🤣 baki samaj jao ok ji` ok then Good Night Guys 🥱😴",
                 "2":"Sorry Sorry Guys, What do you think i forgot yesterday's question solution na na na here it is :- `Time : JSON.parse(atob('bnVsbA=='))`, Answer is Time : Null as 'bnVsbA==' is base64 for the string: `null` and `atob` is a JS function which decodes a base64 encoded string into a plain string. Now Happy then Smile, a little bigger 😁😁",
                 "3":"`Au revoir 😜`:- Good Bye in French 🤣🤣🤣."
+            }
+        }
+    },
+    {
+        "id":"2025-07-01",
+        "begining":{
+            "h2":{
+                "0":"Day 8: Discipline beats mood — ,let's move! 🫠"
+            },
+            "p":{
+                "0":"A good start with proper focus working on projects, learing new concepts and revising previous concepts with a strong will to rise higher 😌🥰."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make Blog of the day and update my training tracker website. 💻",
+                "1":"Revising Practicing Revising Practicing and continuing cycle. + Watching Shared Video. 💻",
+                "2":"Solving Error of dates in training tracker website. 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Extracting time from other work for my own learing and practicing which was managed well by me. Actually feeling nice as with my inner soul help in very much ,staying me motivated all the time 😊."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning & Practicing Resource :- "
+            },
+            "a":{
+                "Interview Questions":"https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions",
+                "React Learing Resource":"https://www.youtube.com/watch?v=dCLhUialKPQ"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully completed with my today's 8 hours of traning also today i learned a new thing that is S3 Bucket a nice concept related to AWS haven't fully dived into it but new things are always exciting 🥸😂."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Few More Interview Questions of React completed and understand the concept behind them.💻",
+                "1":"Converting my already build countries website in react with helps in learning and hands on practice 💻",
+                "2":"Learned Concepts of React like:- Routing, Dynamic Routing, Shimmer Effect, Handling multiple fetch request, Passing data with react router 💻",
+                "3":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Exciting at start and draining all energy at end of the day but still wanna do  more but so tired wanna sleep so can give more efforts tomorrow than today 😊.",
+                "1":"Keeping Today' blog short, will definately try to make furthur blogs more intresting and full of knowlodge ok guys ✌️",
+                "2":"Good Night Readers 😴💤."
             }
         }
     }

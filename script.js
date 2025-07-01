@@ -9,6 +9,7 @@ const month = String(todaysDate.getMonth() + 1).padStart(2, '0');
 const year = todaysDate.getFullYear();
 
 const formattedDate = `${year}-${month}-${day}`;
+const startDate = '2025-06-23';
 
 function createTags(element,attributes,innerElement,parent){
     const elementTag = document.createElement(`${element}`);
@@ -21,7 +22,7 @@ function createTags(element,attributes,innerElement,parent){
 }
 
 let requiredDayData;
-inputDate.value = formattedDate;
+inputDate.value = startDate;
 
 async function getData(url,selectedDate) {
     try{
@@ -66,8 +67,20 @@ async function getData(url,selectedDate) {
 }
 getData('./data.json',inputDate.value)
 
-inputDate.addEventListener('change',(e)=>{
+inputDate.addEventListener('change', (e) => {
+    const selected = new Date(e.target.value);
+    const minDate = new Date("2025-06-23");
+    const maxDate = new Date("2025-07-20");
+
+    let displayDate = e.target.value;
+    
+    if (selected < minDate || selected > maxDate) {
+        alert("Please select a date within the training period (23 June to 20 July 2025).");
+        inputDate.value = startDate;
+        displayDate = startDate
+    }
+
     container.remove();
-    container = createTags('div',{class:"container"},"",containerFrame);
-    getData('./data.json',e.target.value)
-})
+    container = createTags('div', { class: "container" }, "", containerFrame);
+    getData('./data.json', displayDate);
+});
