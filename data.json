@@ -642,5 +642,79 @@
                 "2":"Good Night Readers 😴💤."
             }
         }
+    },
+    {
+        "id":"2025-07-02",
+        "begining":{
+            "h2":{
+                "0":"Day 9: I'm fired up 🔥 — unstoppable energy 💯💪"
+            },
+            "p":{
+                "0":"An exciting start having a hope in mind that today i will be working on a real project on react which can help me in furthur in learning and useful project will get added on in my podfolio 😎😋, let's find out either i get a project or not 🤪, my hope still alive or not 😌"
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make Blog of the day and update my training tracker website. 💻",
+                "1":"Exploring new tech i.e. SASS (Syntactically Awesome Style Sheets) & SCSS (Sassy CSS) 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Completing my project of Countries API which i have to complete using react and learning more and more about SASS & SCSS."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning & Practicing Resource :- "
+            },
+            "a":{
+                "Interview Questions":"https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions",
+                "React Learing Resource":"https://www.youtube.com/watch?v=dCLhUialKPQ",
+                "SASS & SCSS Resourse":"https://www.w3schools.com/sass/sass_intro.asp"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Very early completed my 8 hours of training nearly around 8PM and after that i take rest a little then at 10PM again fine tuning my circuits for maximum efficiency 😝🤣😝."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"A little More Interview Questions of React completed and understand the concept behind them.💻",
+                "1":"Successfully Converted my already build countries website in react with helps in learning and hands on practice 💻",
+                "2":"Learned Concepts of React like:- Context API (Pre-defined + Custom Made), Custom Hooks 💻",
+                "3":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Telling you a secret a top secret make sure my training mentor didn't get to know about it 🤫, come near actually today i didn't do more or the work assigned by my mentor today i work on that country project and see other people's projects and also i saw 3 or actually 4 sifi-movie explanation 😅😂.",
+                "1":"Have a good time talking with mentor discussing how i make my country project and that i learned today in SASS & SCSS. That's all for the day lovely readers 🥰. Good Night 😇.",
+                "2":"Oh wait, where are you going? Don't you want to know if I got the project or not? 😏 Yes, you heard it right — I didn't get it 😭. But no worries, I'll get one soon and will give it my all! Awww, fell for my words again, didn't you? 🤪",
+                "3":"Well... I actually got a project today on a call 😁 — but wait, let's keep the suspense for a few days. Byeee! 😄"
+            }
+        }
     }
 ]
