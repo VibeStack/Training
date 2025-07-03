@@ -716,5 +716,74 @@
                 "3":"Well... I actually got a project today on a call 😁 — but wait, let's keep the suspense for a few days. Byeee! 😄"
             }
         }
+    },
+    {
+        "id":"2025-07-03",
+        "begining":{
+            "h2":{
+                "0":"Day 10: Excitement Overpower's everything! 🤪🥳"
+            },
+            "p":{
+                "0":"A lazy start today but when started i was equally buring like of flame 🔥🤩, Happy working with new tech SASS (Syntactically Awesome Style Sheets) and it is really awesome 😇."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make Blog of the day and update my training tracker website. 💻",
+                "1":"Completed with basic and advance + necessary concepts in SASS. 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Challange na na na never 😜, rather of being challanging it was more focused on learning and the only reason was new tech 😁, again wrong yes this is one of the reason but not the only one, i was working with SASS to increase my productivity, being to be the top 1% Developer i need to be the best and i will do everything to be the one 😇."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning & Practicing Resource :- "
+            },
+            "a":{
+                "React Learing Resource":"https://www.youtube.com/watch?v=dCLhUialKPQ",
+                "SASS":"https://www.w3schools.com/sass/sass_intro.asp"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Again Very early completed my 8 hours of training nearly around 6:30PM and after that i take rest a little then at 11PM again fine tuning my circuits, na na na fine tuning my generator for maximum efficiency 😝😂🤣😂😝."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Completed SASS and learned a little just the intro of three.js and react three fiber 💻",
+                "1":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"A Good one as the whole day was spend in learning and revising the new tech SASS, looks a little empty, am i correct readers, wo wo wo 😱 wait i forgot to tell about three.js and react three fiber a super amazing tool for creating 3D websited and i will go more deep in this as i wanna do what other's feels hard and this is my power 😁.",
+                "1":"Today's news ends here. Thank you, my dear readers 😝 for more exciting and everyday news follow me bye 😊, Peace ✌️."
+            }
+        }
     }
 ]
