@@ -785,5 +785,75 @@
                 "1":"Today's news ends here. Thank you, my dear readers 😝 for more exciting and everyday news follow me bye 😊, Peace ✌️."
             }
         }
+    },
+    {
+        "id":"2025-07-04",
+        "begining":{
+            "h2":{
+                "0":"Day 11: Powercut can't even stop me 😁"
+            },
+            "p":{
+                "0":"A nice healthy start with happy mind but this happiness didn't last so long dur to power cut which not only cut the electricity but also take my power to go more for today, compeletely frustrated of light and hot whether ufff 😩.",
+                "1":"Must be woundering whether i completd my 8 hours of training for today or not let's find out awesome readers 😄."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make Blog of the day and update my training tracker website. 💻",
+                "1":"Completed with basic of node and analyse the file structure. 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Firstly in the begining the challenge was to find a perfect resource not just the documentation form where i can read about node but also to find best videos so i can see when feel bored of reading 😅 then, and secondly was to fight with the extreme hot whether with power cut 😫."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "Node Documentation":"https://nodejs.org/docs/latest/api/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully completed with my today's 8 hours of day but it was really difficult but i am happy at the end that i faced all problem still managed to complete 8 hours of training 😌. Actually, a little less as i took more breaks then usual as i was unable to sit continuously under such a high temperature 🥵"
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Learned about the basics of node (v8 engine, js runtime environment, with advance os concepts actually revise like threads, processes, env variables and more and explore a little worker module for multi-threading) 💻",
+                "1":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"At the end it's go i will treat the day as good because there is no point to remenber this day as a bad one so i fell happy that i successfully managed to attempt 8 hours of training in effective form 😊.",
+                "1":"Hey, readers can you pray that i didn't get the same tomorrow please 🥹 so i can do work tomorrow with the speed like before as it was less i feel for today 😊.",
+                "2":"Very much tired after all this stuff so you know its time to say sayo-nara 👋."
+            }
+        }
     }
 ]
