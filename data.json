@@ -855,5 +855,75 @@
                 "2":"Very much tired after all this stuff so you know its time to say sayo-nara 👋."
             }
         }
+    },
+    {
+        "id":"2025-07-05",
+        "begining":{
+            "h2":{
+                "0":"Day 12: Backup Generators Got Dead 😫😭"
+            },
+            "p":{
+                "0":"A nice start but having low energy can't do that many stuff's that i planned 😔.",
+                "1":"Again and again was trying to focus but can't about to retain the concepts in mind for much long, but twist came a little late wanna know then come on dive into it further my lovely readers 😊😇."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make Blog of the day and update my training tracker website. 💻",
+                "1":"Proceed further with the concepts of node. 💻"
+            }
+        },
+        "challange":{
+            "h2":{
+                "0":"Challange"
+            },
+            "p":{
+                "0":"Todays challange was to retain all the stuff's i studied today but due to malfunctionly on my stupid body 😂 i can't able to concentrate but at the end i find solution than came a little o track 😊."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "Node Documentation":"https://nodejs.org/docs/latest/api/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Commendably finishes my 8 hours of training but a today the amount of work i do was less due to bad body condition but no worries because the end was preety good how was it good let's find out 😜."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Learned about the basics of node (Revised yesterday's content + learned about WSL & path system) 💻",
+                "1":"Todays's blog completed successfully 💻"
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Already discussed the worst part, now discussing with best part it was a nice talk with my one of the cousin's getting some more information about industry life what a developer do, also watched some video's like a life of a software developer, data scientist at various companies ☺️.",
+                "1":"Again signing off with a not so intresting blog today but, having a hope to do some intresting tasks throughout my training time 😉.",
+                "2":"Wishing you a very good night readers 😴🥱."
+            }
+        }
     }
 ]
