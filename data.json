@@ -996,5 +996,74 @@
                 "1":"And now comming to the challenge it is a little fear how am i gonna do both development and ultimate level DSA at the same time. Hoping for the best and definately i will be giving my 200% for this 😊"
             }
         }
+    },
+    {
+        "id":"2025-07-07",
+        "begining":{
+            "h2":{
+                "0":"Day 13: New Week, New Josh 🔥🥳"
+            },
+            "p":{
+                "0":"Amazing start as with a goal of today to complete all the prerequisites for node not at a decent level but at a highly advance and good level ☺️😇"
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make today's blog and continue with updation on my training tracker website. 💻",
+                "1":"Continue with learning of Node.js 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Chalange was to completed with all the basics and prerequisites for node so my speed could increase and i could move to next step of the journey to be a good Full Stack Developer 👨‍💻 (Basically wanna complete with MERN Stack during my training with my ultimate push to my every single vein 😌.)"
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "Node Documentation":"https://nodejs.org/docs/latest/api/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Eary completion of my today 8 and a half hour of training with full dedication, Cool, cool, Coolio 😎🎶😎."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Revised some part of DSA and Continuing with Node.js 💻.",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"A very happy happy feeling because of completion of all the prerequisites for node had successfully completed with advance concepts of Terminal, Operationg System at a higher level 😇.",
+                "1":"Having tomuch energy that i wanna do more of node and i will continue tonight 😊",
+                "2":"Now, there isn't any point to stay away from the knowledege going to explore more guys bye bye Good Night my awesome readers ✌️😴."
+            }
+        }
     }
 ]
