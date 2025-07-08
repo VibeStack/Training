@@ -1065,5 +1065,74 @@
                 "2":"Now, there isn't any point to stay away from the knowledege going to explore more guys bye bye Good Night my awesome readers ✌️😴."
             }
         }
+    },
+    {
+        "id":"2025-07-08",
+        "begining":{
+            "h2":{
+                "0":"Day 14: Excitement at Another Level, Yuppy 😇😁🔥🥳"
+            },
+            "p":{
+                "0":"A refreshing start of the day continuous effort giving me progress in the form of confidence but still something is missing 🤔, hm hmm and that's real world projects, after completing node i will definately go for real world projects 😊 and this won't take much longer time just 2-3 days the see what i am gonna do, incredibly excited for my work 🥳😆."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make today's blog and continue with updation on my training tracker website. 💻",
+                "1":"Continue with learning of Node.js + make api and work a postman and thunderclient. 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Today's challenge was to complete my training time but due to another important work setting up my LinkedIn Profile making new connections take much time as expected and now only in a single day i have made almost 75-80 connections with mostly the experienced Developers and HR's ✌️😎✌️."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "Node Documentation":"https://nodejs.org/docs/latest/api/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"A little late completion of my 8 hours of training 😝 but all goes so well really i will appreciate myself for this 😂."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Today i learned the concepts of modules, common js, exports and module.exports (basic stuff when compared to js), module wrapper, creating own require() function 💻.",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"A Superb exciting stuff happended today i actually make my profile on linked and reached out to various experts and the best part is among all a profession replied me and it feel so exciting, feeling that i have never experienced before like i am working in big tech giants but i have to control my excitement 😌.",
+                "1":"Again going to work with nodejs or DSA as internal feeling say to do but without increasing timer, kuch intresting bhi karna chaiya 🤣",
+                "2":"Tell you tomorrow that i choose ok guys, Bye Peace 😇."
+            }
+        }
     }
 ]
