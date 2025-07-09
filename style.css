@@ -5,6 +5,9 @@ body{
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
 }
+p{
+    line-height: 1.5;
+}
 header {
     inset: 0;
     margin-inline: auto;
