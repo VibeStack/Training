@@ -1134,5 +1134,75 @@
                 "2":"Tell you tomorrow that i choose ok guys, Bye Peace 😇."
             }
         }
+    },
+    {
+        "id":"2025-07-09",
+        "begining":{
+            "h2":{
+                "0":"Day 15: Excitement a Little down 😔"
+            },
+            "p":{
+                "0":"A good start, actually an excited only in hope of learning new concepts, connecting to new people on linkedIn, but the hope keeps on decreasing as the day continues 😣.",
+                "1":"But my work progress in good i learned new concepts and go more deep and i like that, the only good thing that happened with me today 😇😊."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make today's blog and continue with updation on my training tracker website. 💻",
+                "1":"Continue with learning of Node.js + make api 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Not exactly today's day was challenging but not too easy as my main focus was to continue learning with node and i did that but the connections today i made less total reacteds only 100-110 and the worst part not there is the weekly limit on sending connections 😂, marketing to purchase plan, but we as usual indians tomorrow i will work with different email 🤣. हम नहीं सुधरेंगे, अभी तो और बिगड़ेंगे! 🤣😜."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "Node Documentation":"https://nodejs.org/docs/latest/api/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"A litte more then 8 hour of the day but with a less productive manner 😣, will not be making the same mistake again 😤."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Today i learned the concepts of ES6 module system, types of module and module systems, Cjs and Mjs, NPM modules and done with the creation of test API 💻.",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Now coming to today's experience, not a good one not a bad actually but still frustrated 😂",
+                "1":"Now coming to the yesterday question after completion of yesterday's blog either i do nodejs or DSA, you would be suprise that i didn't do any because of eyes pain just seen some videos to strong my learned concepts 😊",
+                "2":"Definately doing some stuff today and if wanna know which i did then stay tunned, Good Night my readers 🙃😊."
+            }
+        }
     }
 ]
