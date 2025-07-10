@@ -1204,5 +1204,77 @@
                 "2":"Definately doing some stuff today and if wanna know which i did then stay tunned, Good Night my readers 🙃😊."
             }
         }
+    },
+    {
+        "id":"2025-07-10",
+        "begining":{
+            "h2":{
+                "0":"Day 16: Excited & Confused Both at Same Time 😁🥴"
+            },
+            "p":{
+                "0":"Exciting start after i get my today's task. 😊",
+                "1":"At the same time a little scared of how am gonna do all those thing and with the urge to do something new i start working again today with new tech yes you guesses right its Three JS 😌😇."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make today's blog and continue with updation on my training tracker website. 💻",
+                "1":"Start making with my personal potfolio. 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Today's challenge was to get the right resource for three.js, tailwind and all that 3D stuff, first i refer documentataion but i got stuck when all thing went wrong unable to just start with tailwind, vite and confused with three.js stuff 😔 and then got so much demotivated than i take some rest and try to continue a little later 😖, This actually worked a little some works came on track and i had some what sign of relief 😊😇."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "Node Documentation":"https://nodejs.org/docs/latest/api/",
+                "Three.js Documentation":"https://threejs.org/manual/#en/creating-a-scene",
+                "Tailwind CSS":"https://tailwindcss.com/docs/installation/using-vite"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Going to complete my today's 8 hous of training, yes you heared right timmer is still going on 😅."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Today i learned some more concepts of node -> npm, npx, published my own npm module, Shebang, library & cli packages and more with exploration of tailwind CSS, Three.js and Vite 💻.",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"An ok ok experience as still confused with a lot of stuff but will not leave until i become something more than the 0.1% Software Developer and being a Full Stack Developer is only the 1st step in my journey 😊😋.",
+                "1":"Answer to yesterday's question what i did at last, i explore and revised more of node and feel internal satisfaction yesterday but it's not today and can't continue as my brother wants my laptop 🤣 so can't say anything to him 😭.",
+                "2":"See you soon my awesome readers 😌, Good Night 😴💤"
+            }
+        }
     }
 ]
