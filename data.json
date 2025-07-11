@@ -1276,5 +1276,77 @@
                 "2":"See you soon my awesome readers 😌, Good Night 😴💤"
             }
         }
-    }
+    },
+    {
+        "id":"2025-07-11",
+        "begining":{
+            "h2":{
+                "0":"Day 17: Energy a Little Down 😣."
+            },
+            "p":{
+                "0":"A little late awake but started work on time 😊",
+                "1":"Today not learned much but more part goes on revising 😁."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make today's blog and continue with updation on my training tracker website. 💻",
+                "1":"Continue making with my personal potfolio. 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Today's challenge was to revise all stuffs and proceed further with node and other things and was difficult as when i sit to study i was being called by family and today it was too large can't focus and can't set my today's day as productive 😭."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "Node Documentation":"https://nodejs.org/docs/latest/api/",
+                "React Revising":"https://www.youtube.com/watch?v=dCLhUialKPQ"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Completed with my 8 hours of day revising revising and revising stuff 😕."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Just revised previous concepts 💻 .",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Can't able to work much effective but leaned some beautiful concepts which broden my horizon and will be disclosing all those soon 😊.",
+                "1":"Don't worry readers trying my best to give me some intresting stuff but being on a path of full stack developer focus is more on work, work, and work as this is the only thing in my life gives me happiness if i work properly i.e utilizing my time in productive manner 😇.",
+                "2":"For Today it's done now and wanna sleep or may revise again and try to complete revision tonight although only tomorrow i have to survive then on Sunday i can take some rest so to awake with full 'Radioactive Reactor Core Charged' 🤪.",
+                "3":"Good Night Readers 😉."
+            }
+        }
+    }    
 ]
