@@ -1348,5 +1348,77 @@
                 "3":"Good Night Readers 😉."
             }
         }
+    },
+    {
+        "id":"2025-07-12",
+        "begining":{
+            "h2":{
+                "0":"Day 18: Reactor Core Again On Maximum Power ⚡️🥳"
+            },
+            "p":{
+                "0":"Timely awake 😊 and settled with my setup I started one more day of my training with energy level again high 😁",
+                "1":"I stared with creating my Portfolio website don't worry will be revealing it soon 😁, Note:- Revealing Platform ➡️ LinkedIn, so stay tunned to never miss anything guys 😎."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make today's blog and continue with updation on my training tracker website. 💻",
+                "1":"Continue making with my personal potfolio. 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Challenge was working with tailwind css, without knowing much of it but was really exciting and i do it very very, having proud on myself 🤣, yes but reality is it was somewhere my patience testing game and i actually win 😇."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "Node Documentation":"https://nodejs.org/docs/latest/api/",
+                "React Revising":"https://www.youtube.com/watch?v=dCLhUialKPQ"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Today completed with my 8 hours & 30 minutes of day and the time i spend is in revising react and making my Portfolio Website. 😎"
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Revised some more concepts of react 💻.",
+                "1":"Working with my Personal Portfolio Website 💻",
+                "2":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Superb Experience as today i actually, ultimately, like working on my Personal Portfolio Website and also learning react and feels amazing, making my wesite was not only the reason for my happiness today the reason is actually i in real inplemented not 3D but 2D objects with a library names as matter.js 😌.",
+                "1":"Not Having much to tell as you all will be getting an amazing suprise as soon as i finish with my website just want and watch my lovely reacders 😇.",
+                "2":"आज का ज्ञान यही समाप्त होता है वत्स 😂😇😌."
+            }
+        }
     }    
 ]
