@@ -1492,5 +1492,77 @@
                 "2":"Signing off for today guys, stay happy and safe bye ✌️, Peace 😉."
             }
         }
-    } 
+    },
+    {
+        "id":"2025-07-14",
+        "begining":{
+            "h2":{
+                "0":"Day 19: New Week Excited to Learning More 😇😁"
+            },
+            "p":{
+                "0":"Good and an early start with continuous determination but still can't able to complete with My Portfolio Website left with converting it to react and adding more details to it but will be definately completing it till tomorrow 🔥😤.",
+                "1":"I wanna make it an amazing some so doing my best to make my concepts strong enough which would also help me in future 😇.",
+                "2":"Definately will be completing with it by tomorrow 😤. Nothing can stop me i'm all the way up 😤."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Make today's blog and continue with updation on my training tracker website. 💻",
+                "1":"Continue making with my personal potfolio + revising previous stuff's (React). 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Today i suffer a little revising the previous concepts but now it's sure i am not gonna forgot the concepts as i am not going to stop with my practive and learning react 😌😇."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Task Assigned"
+            },
+            "p":{
+                "0":"Learning Resource :- "
+            },
+            "a":{
+                "React Revising":"https://www.youtube.com/watch?v=dCLhUialKPQ"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Completed with my today's 8 and a 1/2 hour of training and the time i spend was not so much effective not too mych bad as in between i forgot the concepts again and again but now it's done as i revise, practice and understand properly ✌️😎"
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Revised + Learning some more concepts of react like:- working with form, controlled components, unidirection data flow 💻.",
+                "1":"Working with my Personal Portfolio Website 💻",
+                "2":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Nice one as i love to work and learn new concepts today's learning was more related to form in react also i used vite for the fist time and setup was done successfully 😊",
+                "1":"Get to learn about the unidirection behaviour that is controlled inputs, also get to know about how to give id's in real application that is with the js function `crypto.randomUUID()` 🔥.",
+                "2":"Rest will be working tonight so tomorrow i should be able to complete my portfolio webitse and suprise my readers with my awsome website 🥳✌️ A very Good Night readers 😇."
+            }
+        }
+    }
 ]
