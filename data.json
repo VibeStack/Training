@@ -1636,5 +1636,75 @@
                 "2":"Signing off for today my lovely readers 😉 Good Night 😴."
             }
         }
+    },
+    {
+        "id":"2025-07-16",
+        "begining":{
+            "h2":{
+                "0":"Day 21: Mission Accomplished 😎"
+            },
+            "p":{
+                "0":"Successfully completed with My Personal Portfolio Website using react, Yuppy 🥳, and dont worry it's not done yet rather i will be updating it with time 😊.",
+                "1":"Using the revised concepts helped me alot in building it, wanna know what was the amazing as well as shocking part for me it's using tailwind for the 1st time and i successfully made it 🥳."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Complete My Personal Portfolio Website 💻",
+                "1":"Making Today's blog and updating my training tracker website 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"The one and only challenge was to complete my website today only and i did it 😇, an amazing experience also added some intresting stuff's in it do checkout 😉."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"My Personal Portfolio Website"
+            },
+            "p":{
+                "0":"Completed Project and Hosted Successfully ✌️."
+            },
+            "a":{
+                "React Revising":"https://vibestack.netlify.app/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"With great happiness successfully completed with my 8 hours on training actually a little more, about 2-3 hours more 😁."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Completed with my Personal Portfolio Website 💻",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Brillient experience with a reactor full of happiness which arrises after the completeion of My Personal Portfolio will be uploading on LinkedIn soon but apart of being happy now around 10:30 PM after seeing some more projects feeling a little, no very much low 😔.",
+                "1":"I was thinking that I had make a brillient one and above the level at which i am but i am confused am i fast enough to catch with the real world speed 🤯",
+                "2":"Actually there are many who are much ahead of me i wanna be the Top 1 actually Top 0.0001 % of the developers in the world and putting the sadness aside let's again focus on the present and make future bright 😇, with this coming to the end of the day 😉, Good Night Readers 💤."
+            }
+        }
     }
 ]
