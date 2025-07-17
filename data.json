@@ -1706,5 +1706,75 @@
                 "2":"Actually there are many who are much ahead of me i wanna be the Top 1 actually Top 0.0001 % of the developers in the world and putting the sadness aside let's again focus on the present and make future bright 😇, with this coming to the end of the day 😉, Good Night Readers 💤."
             }
         }
+    },
+    {
+        "id":"2025-07-17",
+        "begining":{
+            "h2":{
+                "0":"Day 22: Perfection In Progress 🤓"
+            },
+            "p":{
+                "0":"Upgradation still in progress will be working tonight to make it as good as possible and will be definately sharing it my tomorrow 😇"
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Modifying My Personal Portfolio Website 💻",
+                "1":"Making Today's blog and updating my training tracker website 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Challenge for today was to applying more and more newer concepts to my website more making the user experience more better and also an attractive one 😁. "
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"My Personal Portfolio Website"
+            },
+            "p":{
+                "0":"Modifying My Personal Portfolio Website"
+            },
+            "a":{
+                "React Revising":"https://vibestack.netlify.app/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully completed with my 8 hours of training but a little less productive 🙃."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Completed with My Personal Portfolio Website 💻",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Actually after viewing the portfolio websites of different persons i was doubting on myself is my website good enough to stand in this highly evolving era but no problem 😁 i will make it more better as much as i can !",
+                "1":"I won't stop until, I break it! 😊",
+                "2":"Today i worked a little less on webiste but continued with my learning of react and applying more stuff to webiste to make it more optimised 😇",
+                "3":"And that, dear viewers, brings us to the thrilling, chilling, and occasionally confusing end of today's news. We came, we reported, we mispronounced a few names — but hey, we did it live! This bulletin has been proudly brought to you by coffee, chaos, and questionable Wi-Fi. Until next time, keep your facts straight and your snacks closer. Goodnight, goodbye, and remember — if it's not dramatic, is it even news? 🎬📺"
+            }
+        }
     }
 ]
