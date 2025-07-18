@@ -1644,8 +1644,8 @@
                 "0":"Day 21: Mission Accomplished 😎"
             },
             "p":{
-                "0":"Successfully completed with My Personal Portfolio Website using react, Yuppy 🥳, and dont worry it's not done yet rather i will be updating it with time 😊.",
-                "1":"Using the revised concepts helped me alot in building it, wanna know what was the amazing as well as shocking part for me it's using tailwind for the 1st time and i successfully made it 🥳."
+                "0":"Successfully completed with My Personal Portfolio Website using react, Yuppy 🥳, and dont worry it's not done yet rather I will be updating it with time 😊.",
+                "1":"Using the revised concepts helped me alot in building it, wanna know what was the amazing as well as shocking part for me it's using tailwind for the 1st time and I successfully made it 🥳."
             }
         },
         "sod":{
@@ -1665,7 +1665,7 @@
                 "0":"Challenge"
             },
             "p":{
-                "0":"The one and only challenge was to complete my website today only and i did it 😇, an amazing experience also added some intresting stuff's in it do checkout 😉."
+                "0":"The one and only challenge was to complete my website today only and I did it 😇, an amazing experience also added some intresting stuff's in it do checkout 😉."
             }  
         },
         "learned":{
@@ -1702,8 +1702,8 @@
             },
             "p":{
                 "0":"Brillient experience with a reactor full of happiness which arrises after the completeion of My Personal Portfolio will be uploading on LinkedIn soon but apart of being happy now around 10:30 PM after seeing some more projects feeling a little, no very much low 😔.",
-                "1":"I was thinking that I had make a brillient one and above the level at which i am but i am confused am i fast enough to catch with the real world speed 🤯",
-                "2":"Actually there are many who are much ahead of me i wanna be the Top 1 actually Top 0.0001 % of the developers in the world and putting the sadness aside let's again focus on the present and make future bright 😇, with this coming to the end of the day 😉, Good Night Readers 💤."
+                "1":"I was thinking that I had make a brillient one and above the level at which I am but I am confused am I fast enough to catch with the real world speed 🤯",
+                "2":"Actually there are many who are much ahead of me I wanna be the Top 1 actually Top 0.0001 % of the developers in the world and putting the sadness aside let's again focus on the present and make future bright 😇, with this coming to the end of the day 😉, Good Night Readers 💤."
             }
         }
     },
@@ -1770,10 +1770,81 @@
                 "0":"My Today's Experience"
             },
             "p":{
-                "0":"Actually after viewing the portfolio websites of different persons i was doubting on myself is my website good enough to stand in this highly evolving era but no problem 😁 i will make it more better as much as i can !",
+                "0":"Actually after viewing the portfolio websites of different persons I was doubting on myself is my website good enough to stand in this highly evolving era but no problem 😁 I will make it more better as much as I can !",
                 "1":"I won't stop until, I break it! 😊",
-                "2":"Today i worked a little less on webiste but continued with my learning of react and applying more stuff to webiste to make it more optimised 😇",
+                "2":"Today I worked a little less on webiste but continued with my learning of react and applying more stuff to webiste to make it more optimised 😇",
                 "3":"And that, dear viewers, brings us to the thrilling, chilling, and occasionally confusing end of today's news. We came, we reported, we mispronounced a few names — but hey, we did it live! This bulletin has been proudly brought to you by coffee, chaos, and questionable Wi-Fi. Until next time, keep your facts straight and your snacks closer. Goodnight, goodbye, and remember — if it's not dramatic, is it even news? 🎬📺"
+            }
+        }
+    },
+    {
+        "id":"2025-07-18",
+        "begining":{
+            "h2":{
+                "0":"Day 23: Again An Off Day 😭"
+            },
+            "p":{
+                "0":"Started with modifying with my portfolio website and this takes my whole day and the result is not so productive rather I believe today's output was 0 yet I learned new in react and tailwind but still 😔.",
+                "1":"Actually I hate these kind of days when my efforts are full but result is not satisfying according to the work and conclude these days as zero productive day 😩."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Modifying My Personal Portfolio Website 💻",
+                "1":"Making Today's blog and updating my training tracker website 💻",
+                "2":"Learning about Redux 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"The Challenge i face today was stuck on my website only and i can't figure out to complete it and start new tech i.e Redux 😕"
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"My Personal Portfolio Website"
+            },
+            "p":{
+                "0":"Modifying My Personal Portfolio Website"
+            },
+            "a":{
+                "React Revising":"https://vibestack.netlify.app/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully completed with my 8 hours of training but a less productive 🙃."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Modifying My Personal Portfolio Website 💻",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"My today's SOD was successfully runined by my portfolio webiste but still learned few things in react and tailwind, but this didn't give me happiness 🧐.",
+                "1":"Tomorrow I will be again trying my best let's hope my tomorrows day must be highly productive 😊.",
+                "2":"Good Night Readers 😴💤."
             }
         }
     }
