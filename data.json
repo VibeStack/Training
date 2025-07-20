@@ -1917,5 +1917,77 @@
                 "1":"Good Night Guys ✌️🧘💤"
             }
         }
+    },
+    {
+        "id":"2025-07-20",
+        "begining":{
+            "h2":{
+                "0":"Week 4 Sunday : Chuti 🥳 Na Na Na 😭"
+            },
+            "p":{
+                "0":"Today's day start with a huge amount of stress and fear wanna know why see my previous day blog go go first read that then come go readers 😂, done reading with previous day blog, then you definately get the answer 🤣 now moving ahead -> ",
+                "1":"Very happy today at the last as said `All's well that ends well` yes you headed it right i have completed successfully with my personal portfolio website you can check now and will be posting to today only on LinkedIn 😇."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Modifying My Personal Portfolio Website 💻",
+                "1":"Making Today's blog and updating my training tracker website 💻",
+                "2":"Exploring more about Redux 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"No challenge a sunday funday blog 🤣😇 and now will be going to sleep after writing today's blog 😊"
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"My Personal Portfolio Website"
+            },
+            "p":{
+                "0":"My Completed Personal Portfolio Website"
+            },
+            "a":{
+                "My Website Link":"https://vibestack.netlify.app/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Enjoying without any boundries if time 🥳😁."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Completed My Personal Portfolio Website 💻",
+                "1":"Todays's blog completed successfully but a day late 😅💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"It was so so but after seeing its end, a nice one so the day can be considered as a good one only having the happiness of completing my website, oh sorry sorry more of that my laptop working well yet 🤣😅.",
+                "1":"Now requesting you all to please share this website as much as you can so more and more friends can see my work and with this some will try to contact then which create a important knowledge sharing platform for me.",
+                "2":"Thanking to al my readers to be with me till the end of my training, Thanks alot my lovely readers 😇.",
+                "3":"Gute Nacht, liebe Freunde! Mögen eure Träume sanft sein und euch neues Glück bringen. Danke, dass ihr Teil dieser Reise seid - schlaft gut und startet morgen mit frischer Energie in den Tag 🤣🤣 means -> Good night, dear friends! May your dreams be gentle and bring you new happiness. Thank you for being part of this journey—sleep well and start tomorrow with fresh energy in German 😉✌️"
+            }
+        }
     }
 ]
