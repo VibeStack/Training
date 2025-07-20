@@ -1676,7 +1676,7 @@
                 "0":"Completed Project and Hosted Successfully ✌️."
             },
             "a":{
-                "React Revising":"https://vibestack.netlify.app/"
+                "My Website Link":"https://vibestack.netlify.app/"
             }
         },
         "time":{
@@ -1745,7 +1745,7 @@
                 "0":"Modifying My Personal Portfolio Website"
             },
             "a":{
-                "React Revising":"https://vibestack.netlify.app/"
+                "My Website Link":"https://vibestack.netlify.app/"
             }
         },
         "time":{
@@ -1817,7 +1817,7 @@
                 "0":"Modifying My Personal Portfolio Website"
             },
             "a":{
-                "React Revising":"https://vibestack.netlify.app/"
+                "My Website Link":"https://vibestack.netlify.app/"
             }
         },
         "time":{
@@ -1845,6 +1845,76 @@
                 "0":"My today's SOD was successfully runined by my portfolio webiste but still learned few things in react and tailwind, but this didn't give me happiness 🧐.",
                 "1":"Tomorrow I will be again trying my best let's hope my tomorrows day must be highly productive 😊.",
                 "2":"Good Night Readers 😴💤."
+            }
+        }
+    },
+    {
+        "id":"2025-07-19",
+        "begining":{
+            "h2":{
+                "0":"Day 24: The Worst Day Ever 😭😭"
+            },
+            "p":{
+                "0":"Very painful start of the day as my laptop didn't work, actually it got unlocked but the processor was having to much load because of kernal tasks and i was very much afraid as this laptop is the only key to the lock of my work 😭.",
+                "1":"So this blog is being updated a day later ok guys but don't worry for the timing the problem is solved and it's working ok ok 😅"
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Modifying My Personal Portfolio Website 💻",
+                "1":"Making Today's blog and updating my training tracker website 💻",
+                "2":"Exploring more about Redux 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Main challenge was to fix my laptop and make it suitable for my work 🤣🤣."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"My Personal Portfolio Website"
+            },
+            "p":{
+                "0":"Modifying My Personal Portfolio Website"
+            },
+            "a":{
+                "My Website Link":"https://vibestack.netlify.app/"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Today's every second was painful for me but still i managed to complete my 8 hours of training through my phone and revised react + learn more about redux."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Modifying My Personal Portfolio Website 💻",
+                "1":"Todays's blog completed successfully but a day late 😅💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Horrible experience for today and all just beacuse of a 13-inch tin can 🤣🤣 which give me small small jumps when i feel it's getting recover but it's actually not, now the next day or i think offically today was the late day of training but i will still write tomorrows blog #Sunday Blog 😉 stay tuned for the what happened tomorrow 😇.",
+                "1":"Good Night Guys ✌️🧘💤"
             }
         }
     }
