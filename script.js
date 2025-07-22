@@ -22,7 +22,7 @@ function createTags(element, attributes, innerElement, parent) {
 }
 
 let requiredDayData;
-inputDate.value = startDate;
+inputDate.value = "2025-07-22";
 
 async function getData(url, selectedDate) {
   try {
@@ -92,7 +92,7 @@ getData("./data.json", inputDate.value);
 inputDate.addEventListener("change", (e) => {
   const selected = new Date(e.target.value);
   const minDate = new Date("2025-06-23");
-  const maxDate = new Date("2025-07-20");
+  const maxDate = new Date("2025-07-30");
 
   let displayDate = e.target.value;
 

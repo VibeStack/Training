@@ -1806,7 +1806,7 @@
                 "0":"Challenge"
             },
             "p":{
-                "0":"The Challenge i face today was stuck on my website only and i can't figure out to complete it and start new tech i.e Redux 😕"
+                "0":"The Challenge I face today was stuck on my website only and I can't figure out to complete it and start new tech i.e Redux 😕"
             }  
         },
         "learned":{
@@ -1855,7 +1855,7 @@
                 "0":"Day 24: The Worst Day Ever 😭😭"
             },
             "p":{
-                "0":"Very painful start of the day as my laptop didn't work, actually it got unlocked but the processor was having to much load because of kernal tasks and i was very much afraid as this laptop is the only key to the lock of my work 😭.",
+                "0":"Very painful start of the day as my laptop didn't work, actually it got unlocked but the processor was having to much load because of kernal tasks and I was very much afraid as this laptop is the only key to the lock of my work 😭.",
                 "1":"So this blog is being updated a day later ok guys but don't worry for the timing the problem is solved and it's working ok ok 😅"
             }
         },
@@ -1896,7 +1896,7 @@
                 "0":"Time Spent"
             },
             "p":{
-                "0":"Today's every second was painful for me but still i managed to complete my 8 hours of training through my phone and revised react + learn more about redux."
+                "0":"Today's every second was painful for me but still I managed to complete my 8 hours of training through my phone and revised react + learn more about redux."
             }
         },
         "eod":{
@@ -1913,7 +1913,7 @@
                 "0":"My Today's Experience"
             },
             "p":{
-                "0":"Horrible experience for today and all just beacuse of a 13-inch tin can 🤣🤣 which give me small small jumps when i feel it's getting recover but it's actually not, now the next day or i think offically today was the late day of training but i will still write tomorrows blog #Sunday Blog 😉 stay tuned for the what happened tomorrow 😇.",
+                "0":"Horrible experience for today and all just beacuse of a 13-inch tin can 🤣🤣 which give me small small jumps when I feel it's getting recover but it's actually not, now the next day or I think offically today was the late day of training but I will still write tomorrows blog #Sunday Blog 😉 stay tuned for the what happened tomorrow 😇.",
                 "1":"Good Night Guys ✌️🧘💤"
             }
         }
@@ -1926,7 +1926,7 @@
             },
             "p":{
                 "0":"Today's day start with a huge amount of stress and fear wanna know why see my previous day blog go go first read that then come go readers 😂, done reading with previous day blog, then you definately get the answer 🤣 now moving ahead -> ",
-                "1":"Very happy today at the last as said `All's well that ends well` yes you headed it right i have completed successfully with my personal portfolio website you can check now and will be posting to today only on LinkedIn 😇."
+                "1":"Very happy today at the last as said `All's well that ends well` yes you headed it right I have completed successfully with my personal portfolio website you can check now and will be posting to today only on LinkedIn 😇."
             }
         },
         "sod":{
@@ -1997,8 +1997,8 @@
                 "0":"Day 26: An ok ok Report Roger's 😜"
             },
             "p":{
-                "0":"A nice start with the thing in mind that i have successfully completed with my training but soon i got a messege from my mentor that my training is still going on so i continue with my training with a new energy 😊.",
-                "1":"Actually now having training a little, no more than a little boaring for me as then i have to lots of family work so working and playing with laptop and increasing knowledge i like more 😂😉"
+                "0":"A nice start with the thing in mind that I have successfully completed with my training but soon I got a messege from my mentor that my training is still going on so I continue with my training with a new energy 😊.",
+                "1":"Actually now having training a little, no more than a little boaring for me as then I have to lots of family work so working and playing with laptop and increasing knowledge I like more 😂😉"
             }
         },
         "sod":{
@@ -2018,8 +2018,46 @@
                 "0":"Challenge"
             },
             "p":{
-                "0":"Challenge was to find a good youtube video so i can work it "
+                "0":"Challenge was to find a good youtube video so I can work it as in the starting I got difficulty in finding the video's so I can continue my learning 😁."
             }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Learning New Tech"
+            },
+            "p":{
+                "0":"Going again to backend side 😊"
+            },
+            "a":{
+                "Graphql Playlist":"https://youtube.com/playlist?list=PLJqm1QY3wEqLr8F_8JqRjkKYiViE2wmFq&si=OppuSqyzwkNdjT-5"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Today worked a hour less, yes it's 7 hours instead of 8 hours and also not so good because I was a little busy but still managed to give time and work nore hard tomorrow ✌️."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Learned the basics of Graphql 💻.",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Yes, back again not done with my training yet and who know's might be I will be writing thse blogs even after my training, as I am planing to do this 😊, let me know wanna see more and want these types of blogs + also tell me was my blogs really intresting and you can also tell me things which I can improve guys, my lovely readers 😇",
+                "1":"So, let me thing if i want to say something else to you or not 😅, ya the thing i wanna say to you is yesterday's blog i didn't wrote yet as i as way too buys yesterday and was thing that it's over with my training so will be updating to tomorrow postively ✌️😁",
+                "2":"Let's have a good and tight sleep guys so to make a good and effective start tomorrow 😜 Good Night 💤"
+            }
         }
     }
 ]
