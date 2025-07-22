@@ -1989,5 +1989,37 @@
                 "3":"Gute Nacht, liebe Freunde! Mögen eure Träume sanft sein und euch neues Glück bringen. Danke, dass ihr Teil dieser Reise seid - schlaft gut und startet morgen mit frischer Energie in den Tag 🤣🤣 means -> Good night, dear friends! May your dreams be gentle and bring you new happiness. Thank you for being part of this journey—sleep well and start tomorrow with fresh energy in German 😉✌️"
             }
         }
+    },
+    {
+        "id":"2025-07-22",
+        "begining":{
+            "h2":{
+                "0":"Day 26: An ok ok Report Roger's 😜"
+            },
+            "p":{
+                "0":"A nice start with the thing in mind that i have successfully completed with my training but soon i got a messege from my mentor that my training is still going on so i continue with my training with a new energy 😊.",
+                "1":"Actually now having training a little, no more than a little boaring for me as then i have to lots of family work so working and playing with laptop and increasing knowledge i like more 😂😉"
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Making Today's blog and updating my training tracker website 💻",
+                "1":"Exploring more about Graphql + Prisma 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Challenge was to find a good youtube video so i can work it "
+            }  
+        }
     }
 ]
