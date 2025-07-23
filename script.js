@@ -92,13 +92,13 @@ getData("./data.json", inputDate.value);
 inputDate.addEventListener("change", (e) => {
   const selected = new Date(e.target.value);
   const minDate = new Date("2025-06-23");
-  const maxDate = new Date("2025-07-30");
+  const maxDate = new Date("2025-07-24");
 
   let displayDate = e.target.value;
 
   if (selected < minDate || selected > maxDate) {
     alert(
-      "Please select a date within the training period (23 June to 30 July 2025)."
+      "Please select a date within the training period (23 June to 24 July 2025)."
     );
     inputDate.value = startDate;
     displayDate = startDate;
