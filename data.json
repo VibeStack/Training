@@ -2059,5 +2059,76 @@
                 "2":"Let's have a good and tight sleep guys so to make a good and effective start tomorrow 😜 Good Night 💤"
             }
         }
+    },
+    {
+        "id":"2025-07-23",
+        "begining":{
+            "h2":{
+                "0":"Day 27: Rock & Roll, Full Stack Style 🎸🚀"
+            },
+            "p":{
+                "0":"Got off to a late start today—had to tackle a few chores at home before diving into code and current working with timmer set on 😅, but the day was good actually 😁.",
+                "1":"Productivity for today was not so bad but at the same time not so great but o a good level, journey to a full stack developer the beginner phase is about to end very soon as after my training i am goona dive into more deep and making good actually good projects 🥳, currently super excited for that 😇."
+            }
+        },
+        "sod":{
+            "h2":{
+                "0":"SOD's (Start of the Day)"
+            },
+            "p":{
+                "0":"Today's Task List :-"
+            },
+            "ol":{
+                "0":"Making Today's blog and updating my training tracker website 💻",
+                "1":"Exploring more about Graphql + Prisma 💻"
+            }
+        },
+        "challenge":{
+            "h2":{
+                "0":"Challenge"
+            },
+            "p":{
+                "0":"Today's challenge was the same firstly finding a good resource so i am go in deep and understand well and secondly was to run away from work of home a little  🤣 and i did a little 😜."
+            }  
+        },
+        "learned":{
+            "h2":{
+                "0":"Learning Continues ..."
+            },
+            "p":{
+                "0":"Going again to backend side 😊 + exploring more of previous learned concepts"
+            },
+            "a":{
+                "Graphql Playlist":"https://youtube.com/playlist?list=PLJqm1QY3wEqLr8F_8JqRjkKYiViE2wmFq&si=OppuSqyzwkNdjT-5"
+            }
+        },
+        "time":{
+            "h2":{
+                "0":"Time Spent"
+            },
+            "p":{
+                "0":"Successfully will be completing my 8 hours, yes you heared it right the timmer is on and 8 hours not yet completed but after 10 minutes it will be completed as soon as i push today's blog 😊✌️."
+            }
+        },
+        "eod":{
+            "h2":{
+                "0":"EOD's (End of the Day)"
+            },
+            "ol":{
+                "0":"Learned the basics of Graphql + more of express and axios and make a small projects as learned 💻.",
+                "1":"Todays's blog completed successfully 💻."
+            }
+        },
+        "experience":{
+            "h2":{
+                "0":"My Today's Experience"
+            },
+            "p":{
+                "0":"Actually a good day with not so satisfying work but still happy as i didn't waste my day and will be doing more tonight and make my energy high tomorrow and rest of the days too 😊.",
+                "1":"While working with express and axios today i learned about deploying not practically as the softwares where i can host backend are actually paid 😅.",
+                "2":"Also continue with a litte graphql ✌️.",
+                "3":"Will be exploring more tomorrow and ending my today's blog here only, thanking my readers for their todays hearing of my news 🤣, Good Night Guys 😉."
+            }
+        }
     }
 ]

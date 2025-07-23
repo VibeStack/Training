@@ -98,7 +98,7 @@ inputDate.addEventListener("change", (e) => {
 
   if (selected < minDate || selected > maxDate) {
     alert(
-      "Please select a date within the training period (23 June to 20 July 2025)."
+      "Please select a date within the training period (23 June to 30 July 2025)."
     );
     inputDate.value = startDate;
     displayDate = startDate;
