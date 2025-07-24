@@ -22,7 +22,7 @@ function createTags(element, attributes, innerElement, parent) {
 }
 
 let requiredDayData;
-inputDate.value = startDate;
+inputDate.value = formattedDate;
 
 async function getData(url, selectedDate) {
   try {
